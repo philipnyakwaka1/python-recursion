@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """This module defines _strlen_recursion"""
 
-def _strlen_recursion(s: str, i: int = 0):
+def _strlen_recursion(s: str, i: int = 0) -> int:
     """return the length of a string recursively"""
     try:
         s[i]
