@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This module defines _puts_recursion(s)"""
+"""This module defines _puts_recursion(s, i)"""
 
 def _puts_recursion(s: str, i: int = 0) -> None:
     """
